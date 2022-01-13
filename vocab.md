@@ -128,6 +128,7 @@ Nouns
 * `zavod` - A factory
 * `zorliplak` - hyperlink
 * `vintz` - Problem, issue
+* `tonfa` - Crutch
 * `vodl` - world
 * `sod` - second
 * `tksu` - A spice, seasoning
@@ -152,7 +153,10 @@ Nouns
 * `kaikina` - Company
 * `shilan` - Program
 * `hurigo` - champion / winner
+* `sai` - Fork (utensil)
+* `mimhis` - rickroll
 * `tobl` - Trouble
+* `bo` - Stick
 * `daosik` - A written instruction
 
 
@@ -211,7 +215,7 @@ Verbs
 * `samsha` - To add, to append
 * `savaro` - To take (a bus, car), to ride
 * `shinpai` - to worry
-* `si` - to be
+* `si` - is, to be
 * `sitsyli` - to laugh
 * `sitsyli` - to laugh
 * `sloligima` - to lead
@@ -232,6 +236,7 @@ Verbs
 * `tuhu` - to obtain , receive
 * `py` - see
 * `valka` - To fight
+* `suki` - Lurch forward
 * `zaima` - decipher
 * `fotobl` - to sabotage
 * `ashvi` - To cook
@@ -321,6 +326,7 @@ Adjectives
 * `ngon` - attractive
 * `mildolla` - great
 * `skialfisr` - Known, documented
+* `ibro` - strange, disturbing, weird
 * `midol` - grand
 
 
