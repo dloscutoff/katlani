@@ -38,7 +38,9 @@ The vowels /o/, /u/, and /y/ are rounded; /i/ and /a/ are unrounded.
 
 ### Syllabification and phonotactics
 
-Katlani is quite free in what constitutes a syllable, and many words can be syllabified in multiple ways according to the reader's preference. For example, **onion**, "opinion," can be pronounced as three syllables, /o.ni.on/, or as two syllables, /o.njon/. The majority of words have a maximal syllable of CVC, but some words are quite consonant-heavy. Arbitrary numbers of consonants may be pronounced as part of the same syllable according to individual preference: **kivsk**, "parent," may be pronounced /kivsk/, for example. Alternately, one or more schwas may be inserted to aid pronunciation: /kiv.sək/, /ki.vəsk/, and /ki.və.sək/ are all possible pronunciations of **kivsk**.
+Katlani is quite free in what constitutes a syllable, and many words can be syllabified in multiple ways according to the reader's preference. For example, **onion**, "opinion," can be pronounced as /o.ni.on/, /o.njon/, or /on.jon/.
+
+The majority of words consist of syllables with a maximal structure of CVC; however, some words are quite consonant-heavy. Arbitrary numbers of consonants may be pronounced as part of the same syllable according to individual preference: **kivsk**, "parent," may be pronounced /kivsk/, for example. Alternately, one or more schwas may be inserted to aid pronunciation: /kiv.sək/, /ki.vəsk/, and /ki.və.sək/ are all possible pronunciations of **kivsk**.
 
 Runs of vowels also occur, although not as frequently as runs of consonants. Pronunciation strategies include turning high vowels into semivowels or adding glottal stops. For instance, **abail**, "house," could be pronounced /a.ba.il/, /a.bajl/, or /a.ba.ʔil/.
 
@@ -61,10 +63,10 @@ To avoid confusion, nouns and adjectives usually do not end with **i** in their 
 No derivational morphology has been officially agreed upon, but a few derivational affixes can be inferred from the current vocabulary list:
 
 - **-il** (added to nouns): -ish, -like (**baka**, "fool, idiot," becomes **bakil**, "foolish")
-- **-ish** (added to verbs): direct object of the verb (**ktom**, "eat," becomese **ktomish**, "food")
+- **-ish** (added to verbs): direct object of the verb (**ktom**, "eat," becomes **ktomish**, "food")
 - **no-**: not, un-, opposite of (**poi**, "happy," becomes **nopoi**, "unhappy")
 
-Compounding two words is also possible, though uncommon. The language's name, **katlani**, is an example of compounding: **kat**, "chat," plus **lani**, "words."
+Compounding two words is also possible, though uncommon. The language's name, **katlani**, is an example of compounding: **kat**, "(internet) chat," plus **lani**, "words."
 
 ## Syntax
 
