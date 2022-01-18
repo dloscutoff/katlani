@@ -70,3 +70,46 @@ Compounding two words is also possible, though uncommon. The language's name, **
 
 ## Syntax
 
+### Sentence order
+
+Katlani is mostly head-initial, although its case markers allow for some flexibility.
+
+The default sentence order is verb, subject, object (VSO):
+
+**iz o su dogo**  
+bite cat acc dog  
+*The cat bites the dog.*
+
+**iz dogo su o**  
+bite dog acc cat  
+*The dog bites the cat.*
+
+However, sentence components can be fronted for emphasis:
+
+**su o iz dogo**  
+acc cat bite dog  
+*The dog bites **the cat**.* (or *The cat is bitten by the dog.*)
+
+**lia ma pas fobl nimak su o**  
+to I pst give this.person acc cat  
+*They gave the cat **to me**.* (lit. *To me they gave the cat.*)
+
+### Verb phrases
+
+Verbs can be marked for *time* using one of three particles, which normally precede the verb:
+
+- **pas** (past time)
+- **ni** (present time)
+- **fy** (future time)
+
+A verb may also be unmarked for time, in which case its time component is inferred (usually assumed to be present unless there is obvious context that suggests otherwise):
+
+**gus ma su rno**  
+like I acc fruit  
+*I like fruit.*
+
+**bai, kata maka atirlo**  
+goodbye chat you.and.I again  
+*Goodbye, we will chat again another time.*
+
+### Noun phrases
